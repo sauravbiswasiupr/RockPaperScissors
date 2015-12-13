@@ -1,0 +1,16 @@
+{
+  "name": "rock-paper-scissors",
+  "version": "1.0.0",
+  "description": "\"A simple implementation of a Rock paper scissors game\"",
+  "dependencies": {
+    "mocha": "*",
+    "lodash": "*",
+    "chai": "*"
+  },
+  "main": "main.js",
+  "scripts": {
+    "test": "mocha test "
+  },
+  "author": "Saurav Biswas",
+  "license": "ISC"
+}
